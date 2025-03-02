@@ -42,4 +42,4 @@ for restaurant in restaurants:
     ).add_to(m)
 
 # Save map
-m.save('tamilnadu_restaurants_map.html')
+m.save('index.html')
